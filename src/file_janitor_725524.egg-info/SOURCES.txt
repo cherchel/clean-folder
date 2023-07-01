@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/main.py
+src/clean/__init__.py
+src/clean/clean.py
+src/file_janitor_725524.egg-info/PKG-INFO
+src/file_janitor_725524.egg-info/SOURCES.txt
+src/file_janitor_725524.egg-info/dependency_links.txt
+src/file_janitor_725524.egg-info/top_level.txt

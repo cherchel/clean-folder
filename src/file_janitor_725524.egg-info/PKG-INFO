@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: file-janitor-725524
+Version: 0.0.1
+Summary: This is a file janitor package that will clean up the specified folder for you.
+Author-email: Vitaliy Dubrovin <vitaliy.dubrovin@gmail.com>
+Project-URL: Homepage, https://github.com/cherchel
+Project-URL: Bug Tracker, https://github.com/cherchel/clean-folder
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# clean-folder
+This is a file janitor package that will clean up the specified folder for you.

@@ -1,4 +1,4 @@
-from clean_folder.clean import rename_files, sort
+from clean import rename_files, sort
 
 if __name__ == '__main__':
     path = input("Введи пусть к папке: ")
